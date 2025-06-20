@@ -5,7 +5,7 @@ It allows you to convert currencies in real-time using the latest exchange rates
 
 ## 🌐 Live Demo
 
-[👉 Click here to view the live app on Netlify](https://your-netlify-app.netlify.app/)
+[👉 Click here to view the live app on Netlify](https://currency-converterreact.netlify.app/)
 
 ## 🚀 Features
 
@@ -24,11 +24,12 @@ It allows you to convert currencies in real-time using the latest exchange rates
 
 To run this project locally:
 
+```bash
 # Clone the repository
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/KowshikMarlapati/currency-converter-react.git
 
 # Navigate to the project directory
-cd your-repo-name
+cd currency-converter-react
 
 # Install dependencies
 npm install
